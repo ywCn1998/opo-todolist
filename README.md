@@ -48,3 +48,26 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+
+
+# libraries use:
+    "@hookform/resolvers": "^3.9.1",
+    "@react-native-community/datetimepicker": "8.2.0",
+    "@reduxjs/toolkit": "^2.3.0",
+    "react-hook-form": "^7.53.2",
+    "react-native-draggable-flatlist": "^4.0.1",
+    "react-native-dropdown-picker": "^5.4.6",
+    "react-native-gesture-handler": "~2.20.2",
+    "react-native-modalbox": "^2.0.2",
+    "react-native-modern-datepicker": "^1.0.0-beta.91",
+    "react-native-reanimated": "~3.16.1",
+    "react-native-reanimated-carousel": "4.0.0-alpha.12",
+    "react-redux": "^9.1.2",
+    "redux-mock-store": "^1.5.5",
+    "redux-persist": "^6.0.0",
+    "redux-persist-expo-file-system-storage": "^1.1.6",
+    "yup": "^1.4.0"
+
+
+
